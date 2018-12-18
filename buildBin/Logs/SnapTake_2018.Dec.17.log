@@ -1,0 +1,3 @@
+2018-12-17 11:49:11,049 FATAL [1] l4n-requestor=(null) l4n-requesttimestamp=(null) l4n-transactionid=(null) l4n-env=(null) l4n-logger=SnapTake.Program aspnet-net_sessionid=NOT AVAILABLE aspnet-request_method=NOT AVAILABLE aspnet-server_name=NOT AVAILABLE aspnet-url=NOT AVAILABLE aspnet-query_string=NOT AVAILABLE [(null)] Test Log
+System.Exception: Test Exception logged!
+

@@ -1,0 +1,16 @@
+F:\9jaHealth\SnapTake\obj\Debug\SnapTake.frmBusy.resources
+F:\9jaHealth\SnapTake\obj\Debug\SnapTake.frmPictureCapture.resources
+F:\9jaHealth\SnapTake\obj\Debug\SnapTake.Properties.Resources.resources
+F:\9jaHealth\SnapTake\obj\Debug\SnapTake.csproj.GenerateResource.cache
+F:\9jaHealth\SnapTake\obj\Debug\SnapTake.csproj.CoreCompileInputs.cache
+F:\9jaHealth\SnapTake\buildBin\SnapTake.exe.config
+F:\9jaHealth\SnapTake\buildBin\SnapTake.exe
+F:\9jaHealth\SnapTake\buildBin\SnapTake.pdb
+F:\9jaHealth\SnapTake\obj\Debug\SnapTake.csproj.CopyComplete
+F:\9jaHealth\SnapTake\obj\Debug\SnapTake.exe
+F:\9jaHealth\SnapTake\obj\Debug\SnapTake.pdb
+F:\9jaHealth\SnapTake\buildBin\UTIL.dll
+F:\9jaHealth\SnapTake\buildBin\log4net.dll
+F:\9jaHealth\SnapTake\buildBin\UTIL.pdb
+F:\9jaHealth\SnapTake\buildBin\log4net.xml
+F:\9jaHealth\SnapTake\obj\Debug\SnapTake.csprojAssemblyReference.cache
